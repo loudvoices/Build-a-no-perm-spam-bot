@@ -12,6 +12,6 @@ __   __     ______        ______   ______     ______     __    __        __   __
                                                                                                                                  
 ```
 🤖This code is meant to build a discord bot using replet.                                                                                                            🔧This took me a really long time to build so thank yall for using it                     
-🛠️ open source project
+🛠️ easy to build
 😄This was pretty funs to make.
 ================================                                                                                                                             
